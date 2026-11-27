@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-This worklog records my work over the internship from 14/09/2026: learning core AWS services through labs, then building shop-ai with the team, a serverless electronics shop on AWS with "frequently bought together" recommendations.
+This worklog records my work during the internship from 14/09/2026 to 14/12/2026: learning core AWS services and practising them through labs, then building a Serverless E-commerce project for laptops and PC components with the team, applying the AWS services I had learned, with AI that recommends items to buy together when a user buys an item on the website.
 
 **Week 1:** [Internship rules, AWS Free Tier account, IAM, VPC, EC2, storage and database labs](1.1-week1/)
 

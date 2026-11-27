@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Nhật ký này ghi lại công việc của mình trong kỳ thực tập từ 14/09/2026: học các dịch vụ AWS cốt lõi qua các bài lab, sau đó cùng nhóm xây dựng shop-ai, một shop điện tử serverless trên AWS có gợi ý "thường được mua cùng".
+Nhật ký này ghi lại công việc của tôi trong kỳ thực tập từ 14/09/2026 đến 14/12/2026: tìm hiểu các dịch vụ AWS cốt lõi và thực hành thông qua các bài lab, sau đó cùng nhóm xây dựng một dự án Serverless E-commerce về laptop và linh kiện điện tử PC, áp dụng các kiến thức về dịch vụ AWS đã được học, kèm ứng dụng AI gợi ý các mặt hàng mua kèm khi người dùng mua một mặt hàng trên web.
 
 **Tuần 1:** [Nội quy thực tập, tài khoản AWS Free Tier, lab IAM, VPC, EC2, lưu trữ và cơ sở dữ liệu](1.1-week1/)
 
