@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 14/09/2026 đến ngày 14/12/2026
 
-<img src="images/hoang.png" alt="Nguyễn Minh Hoàng" width="160">
+<img src="/fcaj-report/images/hoang.jpg" alt="Nguyễn Minh Hoàng" width="240">
 
 ### Nội dung báo cáo
 

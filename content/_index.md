@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 14/09/2026 to 14/12/2026
 
-<img src="images/hoang.png" alt="Nguyen Minh Hoang" width="160">
+<img src="/fcaj-report/images/hoang.jpg" alt="Nguyen Minh Hoang" width="240">
 
 ### Report Content
 
