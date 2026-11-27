@@ -1,0 +1,8 @@
+public/*
+
+# Cấu hình chạy thử trên máy
+.claude/
+
+# Rác macOS, khoá build Hugo
+.DS_Store
+.hugo_build.lock
