@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Bài thu hoạch "Cloud Mastery"
+# Bài thu hoạch "Fireside Chat with Dr. Werner"
 
 ### Mục đích của sự kiện
 
@@ -60,8 +60,8 @@ pre: " <b> 4.3. </b> "
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-[Chép ảnh vào `static/images/events/event3/` rồi thay dòng dưới bằng tên file ảnh. Có thể lặp lại dòng này cho nhiều ảnh.]
+<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%281%29.jpg" alt="Fireside Chat with Dr. Werner" width="700">
 
-<img src="/fcaj-report/images/events/event3/anh-1.jpg" alt="Cloud Mastery" width="600">
+<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%282%29.jpg" alt="Fireside Chat with Dr. Werner" width="700">
 
 > [Một câu tổng kết về sự kiện.]

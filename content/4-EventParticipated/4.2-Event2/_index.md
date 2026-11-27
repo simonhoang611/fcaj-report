@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Event Report: "Fireside Chat with Dr. Werner"
+# Event Report: "AWS Cloud Day and AI Day Hanoi - Watch Party"
 
 ### Event Objectives
 
@@ -60,8 +60,6 @@ pre: " <b> 4.2. </b> "
 
 #### Event Photos
 
-[Copy photos into `static/images/events/event2/`, then replace the line below with the file name. Repeat the line for more photos.]
-
-<img src="/fcaj-report/images/events/event2/anh-1.jpg" alt="Fireside Chat with Dr. Werner" width="600">
+<img src="/fcaj-report/images/AWS%20Cloud%20Day%20and%20AI%20Day%20Hanoi%20-%20Watch%20Party.jpg" alt="AWS Cloud Day and AI Day Hanoi - Watch Party" width="700">
 
 > [One closing sentence about the event.]

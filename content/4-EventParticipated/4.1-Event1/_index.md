@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Event Report: "AWS Cloud Day and AI Day Hanoi - Watch Party"
+# Event Report: "Kickoff FCAJ Buildrathon 2026 and Talkshow “The Thinking Behind Building The Bot”"
 
 ### Event Objectives
 
@@ -60,8 +60,6 @@ pre: " <b> 4.1. </b> "
 
 #### Event Photos
 
-[Copy photos into `static/images/events/event1/`, then replace the line below with the file name. Repeat the line for more photos.]
-
-<img src="/fcaj-report/images/events/event1/anh-1.jpg" alt="AWS Cloud Day and AI Day Hanoi - Watch Party" width="600">
+<img src="/fcaj-report/images/Kickoff%20FCAJ%20Buildrathon%202026%20v%C3%A0%20Talkshow%20%E2%80%9CThe%20Thinking%20Behind%20Building%20The%20Bot%E2%80%9D.jpg" alt="Kickoff FCAJ Buildrathon 2026 and Talkshow The Thinking Behind Building The Bot" width="700">
 
 > [One closing sentence about the event.]

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Event Report: "Cloud Mastery"
+# Event Report: "Fireside Chat with Dr. Werner"
 
 ### Event Objectives
 
@@ -60,8 +60,8 @@ pre: " <b> 4.3. </b> "
 
 #### Event Photos
 
-[Copy photos into `static/images/events/event3/`, then replace the line below with the file name. Repeat the line for more photos.]
+<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%281%29.jpg" alt="Fireside Chat with Dr. Werner" width="700">
 
-<img src="/fcaj-report/images/events/event3/anh-1.jpg" alt="Cloud Mastery" width="600">
+<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%282%29.jpg" alt="Fireside Chat with Dr. Werner" width="700">
 
 > [One closing sentence about the event.]

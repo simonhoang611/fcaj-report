@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch "Fireside Chat with Dr. Werner"
+# Bài thu hoạch "AWS Cloud Day and AI Day Hanoi - Watch Party"
 
 ### Mục đích của sự kiện
 
@@ -60,8 +60,6 @@ pre: " <b> 4.2. </b> "
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-[Chép ảnh vào `static/images/events/event2/` rồi thay dòng dưới bằng tên file ảnh. Có thể lặp lại dòng này cho nhiều ảnh.]
-
-<img src="/fcaj-report/images/events/event2/anh-1.jpg" alt="Fireside Chat with Dr. Werner" width="600">
+<img src="/fcaj-report/images/AWS%20Cloud%20Day%20and%20AI%20Day%20Hanoi%20-%20Watch%20Party.jpg" alt="AWS Cloud Day and AI Day Hanoi - Watch Party" width="700">
 
 > [Một câu tổng kết về sự kiện.]

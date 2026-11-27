@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Bài thu hoạch "AWS Cloud Day and AI Day Hanoi - Watch Party"
+# Bài thu hoạch "Kickoff FCAJ Buildrathon 2026 và Talkshow “The Thinking Behind Building The Bot”"
 
 ### Mục đích của sự kiện
 
@@ -60,8 +60,6 @@ pre: " <b> 4.1. </b> "
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-[Chép ảnh vào `static/images/events/event1/` rồi thay dòng dưới bằng tên file ảnh. Có thể lặp lại dòng này cho nhiều ảnh.]
-
-<img src="/fcaj-report/images/events/event1/anh-1.jpg" alt="AWS Cloud Day and AI Day Hanoi - Watch Party" width="600">
+<img src="/fcaj-report/images/Kickoff%20FCAJ%20Buildrathon%202026%20v%C3%A0%20Talkshow%20%E2%80%9CThe%20Thinking%20Behind%20Building%20The%20Bot%E2%80%9D.jpg" alt="Kickoff FCAJ Buildrathon 2026 và Talkshow The Thinking Behind Building The Bot" width="700">
 
 > [Một câu tổng kết về sự kiện.]
