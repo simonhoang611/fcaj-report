@@ -8,60 +8,59 @@ pre: " <b> 4.3. </b> "
 
 # Event Report: "Fireside Chat with Dr. Werner"
 
+### Event Information
+
+- **Date & time:** 09:00 (UTC+7), 02/10/2026
+- **Location:** 26th Floor, Bitexco Financial Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+- **Role:** Attendee
+
 ### Event Objectives
 
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
+- Connect students, developers, solution architects and engineers with Amazon's CTO.
+- Share perspectives on the future of Cloud, AI and digital transformation.
+- Inspire innovation and share how to build systems at global scale.
 
-### Speakers
+### Speaker
 
-- **[Speaker name]** - [Title, company]
-- **[Speaker name]** - [Title, company]
+- **Dr. Werner Vogels** - Chief Technology Officer, Amazon
 
-### Key Highlights
+### Content and Main Activities
 
-#### [Topic 1]
+A community session with Dr. Werner Vogels, Chief Technology Officer of Amazon and one of the pioneers of cloud computing. It covered the future of Cloud and AI, lessons from building and operating systems at global scale, innovation and technology trends, followed by Q&A and networking with the community.
 
-- [Key point]
-- [Key point]
+#### The future of Cloud and AI
 
-#### [Topic 2]
+- Dr. Vogels' view on how Cloud and AI are shaping the next generation of digital transformation.
 
-- [Key point]
-- [Key point]
+#### Lessons from global-scale systems
 
-#### [Topic 3]
+- Amazon's experience building and operating systems at global scale.
+- Innovation, leadership and the technology trends worth watching.
 
-- [Key point]
-- [Key point]
+#### Q&A and networking
+
+- A live Q&A with Dr. Vogels and time to connect with builders, students and professionals in the community.
 
 ### Key Takeaways
 
-- [New knowledge or perspective 1]
-- [New knowledge or perspective 2]
-- [New knowledge or perspective 3]
+- At scale, failures are certain; a good system is designed to tolerate them and recover on its own.
+- Technology should serve real user problems rather than chase trends.
+- The people who build a system should also run it and own it.
 
 ### Applying to Work
 
-- [What you can apply to the shop-ai project or future work]
-- [Application 2]
+- In our project, the team designs for failure: SQS queues with a DLQ, partial batch failure handling, an Idempotency-Key to avoid duplicate orders, and PITR on the key production tables.
+- We observe the system with logs, metrics and a correlationId (Powertools) to detect and fix issues quickly, with a runbook for DynamoDB throttling.
 
-### Event Experience
+### Lessons Learned
 
-#### Networking and Discussions
+- Hearing directly from a pioneer showed me that design principles are not just theory but come from real operating experience.
+- Always stay curious and keep learning new technology.
 
-- [Who you met, asked or talked with, and about what]
+### Event Photos
 
-#### Lessons Learned
+<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%281%29.jpg" alt="Fireside Chat with Dr. Werner (1)" width="700">
 
-- [Lesson 1]
-- [Lesson 2]
+<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%282%29.jpg" alt="Fireside Chat with Dr. Werner (2)" width="700">
 
-#### Event Photos
-
-<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%281%29.jpg" alt="Fireside Chat with Dr. Werner" width="700">
-
-<img src="/fcaj-report/images/Fireside%20Chat%20with%20Dr.%20Werner%282%29.jpg" alt="Fireside Chat with Dr. Werner" width="700">
-
-> [One closing sentence about the event.]
+> It was a rare chance to hear directly from one of the people who built the foundation of modern cloud computing, and a big source of inspiration for my internship.
